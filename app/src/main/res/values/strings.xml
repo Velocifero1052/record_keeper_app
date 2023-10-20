@@ -14,4 +14,7 @@
     <string name="this_is_our_example_multiline_text">This is our example multi-line text</string>
     <string name="running_title">running</string>
     <string name="cycling_title">cycling</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="running_fragment_is_active_text">Running fragment is active</string>
 </resources>
