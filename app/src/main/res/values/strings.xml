@@ -5,4 +5,13 @@
     <string name="test_button_3_test">Test Button 3</string>
     <string name="test_button_4_test">Test Button 4</string>
     <string name="test_button_5_test">Test Button 5</string>
+    <string name="image_description_test">Image description</string>
+    <string name="test_button_text">Test button</string>
+    <string name="this_is_my_example_text">This is my example text</string>
+    <string name="content_desc_3">content desc</string>
+    <string name="my_example_title">My Example title</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_our_example_multiline_text">This is our example multi-line text</string>
+    <string name="running_title">running</string>
+    <string name="cycling_title">cycling</string>
 </resources>
