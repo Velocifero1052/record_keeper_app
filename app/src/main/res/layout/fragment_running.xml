@@ -57,13 +57,13 @@
                 android:layout_height="wrap_content">
 
                 <TextView
-                    android:textColor="@color/material_dynamic_primary20"
+                    android:textColor="#FF302525"
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     android:text="@string/five_kilometers_text"
                     android:layout_width="wrap_content"
                     android:textSize="20sp"
-                    android:fontFamily="sans-serif"
+                    android:fontFamily="sans-serif-light"
                     android:layout_height="wrap_content" />
 
             </androidx.constraintlayout.widget.ConstraintLayout>
