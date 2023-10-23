@@ -17,4 +17,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="running_fragment_is_active_text">Running fragment is active</string>
+    <string name="cycling_fragment_is_active_text">Cycling fragment is active</string>
 </resources>
