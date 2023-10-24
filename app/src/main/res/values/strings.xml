@@ -20,5 +20,5 @@
     <string name="cycling_fragment_is_active_text">Cycling fragment is active</string>
     <string name="running_view_text">Running</string>
     <string name="that_dude_who_runs_image_view_desc">That dude who runs</string>
-    <string name="five_kilometers_text">five kilometers</string>
+    <string name="five_kilometers_text">5km</string>
 </resources>
