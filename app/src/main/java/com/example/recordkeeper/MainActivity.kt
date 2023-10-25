@@ -48,5 +48,4 @@ class MainActivity : AppCompatActivity(), View.OnClickListener,
             false
         }
     }
-
 }
