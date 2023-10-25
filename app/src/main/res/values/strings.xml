@@ -23,4 +23,8 @@
     <string name="that_dude_who_cycles">That dude who enjoys cycling</string>
     <string name="five_kilometers_text">5km</string>
     <string name="bike_view_text">Cycling</string>
+    <string name="full_marathon_text">Full marathon</string>
+    <string name="half_marathon_text">Half marathon</string>
+    <string name="three_kilometers_text">3km</string>
+    <string name="longest_ride_text">Longest Ride</string>
 </resources>
