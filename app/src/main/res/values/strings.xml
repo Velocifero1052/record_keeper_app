@@ -27,4 +27,6 @@
     <string name="half_marathon_text">Half marathon</string>
     <string name="three_kilometers_text">3km</string>
     <string name="longest_ride_text">Longest Ride</string>
+    <string name="biggest_climb_text">Biggest Climb</string>
+    <string name="best_average_speed_text">Best average speed</string>
 </resources>

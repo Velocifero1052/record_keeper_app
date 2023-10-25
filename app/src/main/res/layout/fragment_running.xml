@@ -52,7 +52,7 @@
 
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_3km"
+                android:id="@+id/three_km_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -96,7 +96,7 @@
                 android:background="@color/light_grey" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_5km"
+                android:id="@+id/five_km_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -140,7 +140,7 @@
                 android:background="@color/light_grey" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_half_marathon"
+                android:id="@+id/half_marathon_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -184,7 +184,7 @@
                 android:background="@color/light_grey" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_full_marathon"
+                android:id="@+id/full_marathon_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"

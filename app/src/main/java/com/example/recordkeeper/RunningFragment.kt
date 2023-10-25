@@ -27,10 +27,10 @@ class RunningFragment : Fragment() {
     }
 
     private fun setupClickListeners() {
-        binding.container3km.setOnClickListener{ launchRunningRecordScreen() }
-        binding.container5km.setOnClickListener{ launchRunningRecordScreen() }
-        binding.containerHalfMarathon.setOnClickListener{ launchRunningRecordScreen() }
-        binding.containerFullMarathon.setOnClickListener{ launchRunningRecordScreen() }
+        binding.threeKmContainer.setOnClickListener{ launchRunningRecordScreen() }
+        binding.fiveKmContainer.setOnClickListener{ launchRunningRecordScreen() }
+        binding.halfMarathonContainer.setOnClickListener{ launchRunningRecordScreen() }
+        binding.fullMarathonContainer.setOnClickListener{ launchRunningRecordScreen() }
     }
 
     private fun launchRunningRecordScreen() {

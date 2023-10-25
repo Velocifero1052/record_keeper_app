@@ -95,7 +95,7 @@
                 android:background="@color/light_grey" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_biggest_climb"
+                android:id="@+id/biggest_climb_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -109,7 +109,7 @@
                     android:textSize="20sp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:text="Biggest Climb" />
+                    android:text="@string/biggest_climb_text" />
 
                 <TextView
                     android:id="@+id/biggest_climb_value_text_view"
@@ -139,7 +139,7 @@
                 android:background="@color/light_grey" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                android:id="@+id/container_best_average_speed"
+                android:id="@+id/bet_average_speed_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -153,7 +153,7 @@
                     android:textSize="20sp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:text="Best average speed" />
+                    android:text="@string/best_average_speed_text" />
 
                 <TextView
                     android:id="@+id/best_average_speed_text_view"
