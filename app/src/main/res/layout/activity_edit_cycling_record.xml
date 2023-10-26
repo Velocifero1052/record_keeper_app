@@ -4,17 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EditRunningRecordActivity">
+    tools:context=".EditCyclingRecordActivity">
 
     <TextView
-        android:id="@+id/edit_running_text_view"
+        android:id="@+id/edit_cycling_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:text="This will be where we gonna edit that text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        />
+        app:layout_constraintBottom_toBottomOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
