@@ -12,5 +12,7 @@ class EditRunningRecordActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityEditRunningRecordBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        val distance = intent.getStringExtra("distance")
+        binding.editRunningTextView.text = distance
     }
 }
