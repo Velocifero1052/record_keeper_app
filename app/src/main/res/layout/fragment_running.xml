@@ -59,6 +59,7 @@
                 android:padding="12dp">
 
                 <TextView
+                    android:id="@+id/three_km_text_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif"
@@ -103,6 +104,7 @@
                 android:padding="12dp">
 
                 <TextView
+                    android:id="@+id/five_km_text_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif"
@@ -147,6 +149,7 @@
                 android:padding="12dp">
 
                 <TextView
+                    android:id="@+id/half_marathon_text_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif"
@@ -191,6 +194,7 @@
                 android:padding="12dp">
 
                 <TextView
+                    android:id="@+id/full_marathon_text_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif"
