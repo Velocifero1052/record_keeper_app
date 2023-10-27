@@ -38,14 +38,16 @@ class MainActivity : AppCompatActivity(), View.OnClickListener,
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
-        return if (item.itemId == R.id.nav_running) {
-            onRunningClicked()
-            true
-        } else if (item.itemId == R.id.nav_cycling) {
-            onCyclingClicked()
-            true
-        } else {
-            false
+        return when(item.itemId) {
+            R.id.nav_running -> {
+                onRunningClicked()
+                true
+            }
+            R.id.nav_cycling -> {
+                onCyclingClicked()
+                true
+            }
+            else -> false
         }
     }
 }
